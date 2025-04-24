@@ -65,7 +65,7 @@ const Home = () => {
           <img
             className="w-full h-auto"
             src="https://maxcdn.icons8.com/download/misc/icons8-header/ouch-cover.jpg"
-            alt="image"
+            alt=""
           />
         </div>
       </div>
